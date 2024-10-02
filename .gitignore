@@ -1,0 +1,13 @@
+/.idea
+/B/.idea
+/B/dist
+/B/node_modules
+/A/.idea
+/B/logs
+/B/*.log
+/B/npm-debug.log*
+/B/pnpm-debug.log*
+/B/yarn-debug.log*
+/B/yarn-error.log*
+/B/lerna-debug.log*
+/B/.env
